@@ -25,7 +25,7 @@ SECRET_KEY = 'yhf#1b(86ld+ha6l&nu$=mt&tik1tzy+r6hsqjzt-z876z$0n='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['srivalli.pythonanywhere.com',]
 
 
 # Application definition
